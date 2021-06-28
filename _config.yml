@@ -6,3 +6,5 @@ description: Chronicles of my adventures in coding
 url: "https://octoca.github.io"
 markdown: kramdown
 highlighter: rouge
+
+theme: jekyll-theme-hacker
