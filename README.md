@@ -1,3 +1,4 @@
+improve-feature-in-the-repository-field
 # README
     View this page website in:
 <a href="https://pages.github.com">dji7.github.io</a>
@@ -56,10 +57,7 @@ Here are a few of our favorite resources to help you make the right choice for y
        Other behaviours and information 
        learn more in: !.
        
- 
-  
 
+dji7.github.io
+Let‘s get started with Github page to build up this repository website to the next level.
 
- 
-  
-  

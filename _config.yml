@@ -1,2 +1,8 @@
-# hello-world
-hello, world!
+# Jekyll configuration**
+hello-world
+
+name: Octocat's Wanderings
+description: Chronicles of my adventures in coding  
+url: "https://octoca.github.io"
+markdown: kramdown
+highlighter: rouge
