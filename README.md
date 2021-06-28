@@ -1,4 +1,4 @@
-improve-feature-in-the-repository-field
+add-alternative-solution-in-the-repository
 # README
     View this page website in:
 <a href="https://pages.github.com">dji7.github.io</a>
