@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# README
+<div class="content" aling="center">
+ <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+  
+  <p>Author <a href="https://github.com/djibal">Djibal</a> Github profile</p>
+    
+ <h3><img align="center" widght-"120" height="100" src="https://user-images.githubusercontent.com/81055330/123887240-0d112700-d949-11eb-8570-2c4477f490ed.jpeg">
+ dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog </a></h3>
+ This repository is for learning pleinty of new things in GitHub.
+</div>
 
-You can use the [editor on GitHub](https://github.com/dji-7/dji7.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Join our teams conversation 
+Join to disconver how to create feature inside Github website
+- > [Join our team chat box ](https://github.com/orgs/dji-7/teams/team-chat-box/)
+- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to make features requests?
+if there is None master plan for this project purposed or 
+None sure what it is the blob problems to solved in: this feature request
 
-### Markdown
+> - Description and clear concise of our feature requests.
+    
+elif this request feature doesn't exist in: this page main - [repository](https://github.com/dji-7/dji7.github.io/) or
+there's no one perfect - [jekyll site CI]() features or pages strategy that fits this page project.
+    
+ > - echo, learn more by your own previous examples of the creativity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+echo if there is None master plan for this this project requests, do not copy other styles,
+learn more forwards with cookie helps or without
 
-```markdown
-Syntax highlighted code block
+> - learn more about these examples create your own model, style, in:
+> blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
 
-# Header 1
-## Header 2
-### Header 3
+<h3> Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website</h3>
+  
+    Explore and learn Github feature 👇 How it work❔
+    
+<p> Let's try to build up this repository website to the next level
 
-- Bulleted
-- List
+## Inner Source 
+<p aling="center" <a href="https://github.com/djibal/">Djibal </a>
+- [Innersource repository](https://github.com/djibal/innersource/)
+    
+InnerSource branches folders, learn Iner Source,
+build website that you can publish as your own InnerSource landing page. 
+      
+<div class="https://github.com/djibal/innersource">
+   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+</ul>
 
-1. Numbered
-2. List
+   
+### Thank you for visiting us!
+       
+       Do not forget, if someone asks for your personal information
+       such as your account bank or your bank card, say no.
+       > - See you soon !
+       
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dji-7/dji7.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
