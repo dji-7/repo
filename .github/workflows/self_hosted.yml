@@ -1,0 +1,33 @@
+Add self-hosted runner
+# Operation System: Windows (Architecture: X64)
+
+## GitHub Actions Runner
+By downloading and configuring the 
+you must agree to the GitHub Terms of Service or GitHub Corporate Terms of Service, as applicable.
+
+
+## Download
+On WINDOWS POWERSHELL:
+It is recommended to configuring the runner under "\actions-runner". 
+This will help avoid issues related to service identity folder permissions and long path restrictions on Windows.
+
+
+### Create a folder under the drive root
+$ mkdir actions-runner; cd actions-runner
+
+### Download the latest runner package
+$ Invoke-WebRequest -Uri https://github.com/actions/runner/releases/download/v2.278.0/actions-runner-win-x64-2.278.0.zip -OutFile actions-runner-win-x64-2.278.0.zip
+
+## Extract the installer
+$ Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]::ExtractToDirectory("$PWD/actions-runner-win-x64-2.278.0.zip", "$PWD")
+
+Configure
+
+### Create the runner and start the configuration experience
+$ ./config.cmd --url https://github.com/dji-7 --token ATKM4YRYGXXEKQXZFYGDK33A3SMWE#
+Run it!
+$ ./run.cmd
+
+ Using your self-hosted runner
+### Use this YAML in your workflow file for each job
+runs-on: self-hosted
