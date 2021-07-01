@@ -1,4 +1,3 @@
-add-alternative-solution-in-the-repository
 # README
 - > This repository will be a working website that you can publish as your own InnerSource landing page.
 <div class="content" aling="center">
