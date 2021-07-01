@@ -1,13 +1,31 @@
-add-alternative-solution-in-the-repository
-# README
+# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
 <div class="content" aling="center">
  <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
+ is repository is for learning pleinty of new things in GitHub.
+</div>
+
+Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
   
-  <p>Author <a href="https://github.com/djibal">Djibal</a> Github profile</p>
+    Explore and learn Github feature! How it work❔
     
- <h3><img align="center" widght-"120" height="100" src="https://user-images.githubusercontent.com/81055330/123887240-0d112700-d949-11eb-8570-2c4477f490ed.jpeg">
- dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog </a></h3>
- This repository is for learning pleinty of new things in GitHub.
+Let's try to build up this repository website to the next level
+      
+<div class="innersource">
+  Inner Source repository
+ build website that you can publish as your own InterSource landing page. 
+ 
+    InnerSource branch folders, learn Inner Source here 👇
+ 
+
+ <ul id="https://github.com/djibal/innersource">
+   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+ </p> 
+</ul>
 </div>
 
 ## Join our teams conversation 
@@ -33,26 +51,6 @@ learn more forwards with cookie helps or without
 > - learn more about these examples create your own model, style, in:
 > blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
 
-<h3> Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website</h3>
-  
-    Explore and learn Github feature 👇 How it work❔
-    
-<p> Let's try to build up this repository website to the next level
-
-## Inner Source 
-<p aling="center" <a href="https://github.com/djibal/">Djibal </a>
-- [Innersource repository](https://github.com/djibal/innersource/)
-    
-InnerSource branches folders, learn Iner Source,
-build website that you can publish as your own InnerSource landing page. 
-      
-<div class="https://github.com/djibal/innersource">
-   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <li><a href="templates/">Useful templates</a></li>
-    <li><a href="metrics/">Measuring success</a></li>
-    <li><a href="repo-ownership/">Repository ownership</a></li>
-   <li><a href="workflows/">Workflows</a></li>
-</ul>
 
    
 ### Thank you for visiting us!
