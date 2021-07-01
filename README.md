@@ -1,4 +1,4 @@
-# Repository pages website 
+# dji-7
 echo read in >> "READEME.md"
 
 ## How to build GitHub pages site website?
