@@ -1,4 +1,5 @@
-<h3 align="center">dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</h3>
+# Dji-7
+<h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
 
 ## README.mardown && Feature requests
@@ -10,47 +11,67 @@
     None sure what it is the blob problems to solved in: pull this feature request to improve. 
 
 <h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
+
+# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
+<div class="content" aling="center">
+ <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
+ is learning plenty of new things in GitHub Action.
+</div>
+
+Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
+
   
-    None ideas 🧐 but ...
+    Explore and learn GitHub feature! How it works❔
     
-<p> Let's try to build up this repository website to the next level
-
-### Workflows & Branching Strategies
-> - There's no one perfect workflow or branching strategy that fits every project. However, when you're collaborating in a repository on GitHub, it's important to have a      clear workflow outlined and communicated. That way, contributors know what to expect and how to get things done. 
-  
-Here are a few of our favorite resources to help you make the right choice for your project: 
-- [The GitHub Flow](https://guides.github.com/introduction/flow/)
-- [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
-- A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to 
- > - communicate your chosen workflow
-  
-#### Discover Github pages feature 
-  
-      This repository will be a working website that you can publish as your own InnerSource landing page.
-- [Innersource local repository](https://github.com/djibal/innersource/)
-
+Let's try to build up this repository website to the next level
+      
+<div class="inner source">
+  Inner Source repository
+ build website that you can publish as your own InterSource landing page. 
  
-  
-<div class="branch-list">
+    Inner Source branch folders, learn Inner Source here 👇
+ 
+
+ <ul id="https://github.com/djibal/innersource">
    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
     <li><a href="templates/">Useful templates</a></li>
     <li><a href="metrics/">Measuring success</a></li>
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
+ </p> 
 </ul>
+</div>
 
+## Join our teams' conversation 
+Join to discover how to create feature inside GitHub website
+- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
+- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
 
-##### Discover Github pages feature 
-<p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+### How to make features requests?
+If there is None master plan for this project purposed or 
+None sure what it is the blob problems to solved in: this feature request
 
+> - Description and clear concise of our feature requests.
     
-### Explanation of what we want to happen in this example
-<p>echo improving my request is to get the missing recommandation feature solutions in my project</p>.
-       
-       Other behaviours and information 
-       learn more in: !.
-       
+Elif this requests feature doesn't exist in: this page main - [repository](https://github.com/dji-7/dji7.github.io/) or
+there's no one perfect - [Jekyll site CI] () features or pages strategy that fits this page project.
+    
+ > - echo, learn more by your own previous examples of the creativity.
 
-dji7.github.io
-Let‘s get started with Github page to build up this repository website to the next level.
+echo if there is None master plan for this this project requests, do not copy other styles,
+learn more forwards with cookie helps or without
+
+> - learn more about these examples create your own model, style, in:
+> blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
+
+
+   
+### Thank you for visiting us!
+       
+       Do not forget, if someone asks for your personal information
+       such as your account bank or your bank card, say no.
+       > - See you soon !
+       
 
