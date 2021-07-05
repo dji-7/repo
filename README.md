@@ -1,14 +1,7 @@
-add-alternative-solution-in-the-repository
-# README
-    View this page website in:
-<a href="https://pages.github.com">dji7.github.io</a>
+<h3 align="center">dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</h3>
 
-- <h3 align="center">dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from your <a href="https://pages.github.com">Github</a> repository</3h>
-<h2>Hello 🖐🏿 Welcome among!</h2>
 
-<p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
-
-## README.mardown && Feature request
+## README.mardown && Feature requests
 <p>echo, please active the missing functionalities,</p>
     
     sure there are absences on request of the functionalities
