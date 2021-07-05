@@ -1,62 +1,76 @@
-# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
-<div class="content" aling="center">
- <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
- View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
- is learning plenty of new things in GitHub Action.
+# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
+ <b>You are on the @dji-7 organisation page</b> 
+ 
+    this repository is my playground with a lot of features.
+
+<div class="content" aling="top-center">
+ <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a> and learning plenty of new things with <b>GitHub</b> features.
 </div>
 
-Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
-  
-    Explore and learn GitHub feature! How it works❔
-    
-Let's try to build up this repository website to the next level
+## Learn how to build beautiful website 
+> - build website that you can publish as your own InterSource landing page
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+
+    Methods and GitHub feature! How it works❔    
+   > Just write down 👇
+   >
+            > specified just by writing what you want it to do in your code, and see the changes. 
       
 <div class="inner source">
-  Inner Source repository
- build website that you can publish as your own InterSource landing page. 
- 
-    Inner Source branch folders, learn Inner Source here 👇
- 
-
  <ul id="https://github.com/djibal/innersource">
-   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <li><a href="templates/">Useful templates</a></li>
-    <li><a href="metrics/">Measuring success</a></li>
-    <li><a href="repo-ownership/">Repository ownership</a></li>
-   <li><a href="workflows/">Workflows</a></li>
+   <h2>Learn Resources </h2> 
+ Inner Source<a href="/https://github.com/djibal/innersource/"> Repository</a> for <b>learning resources</b>
+  
+    Links to repository documents, click on link 👇
+ <p>
+   <li>add-1 URL <a href="/#/">linked first topic titre here</a> First titre</li>
+    <li>add-2 URL <a href="/#/">linked second topic titre here</a> Second titre</li>
+    <li>add-3 URL <a href="/#/">linked third topic titre here</a> Third titre</li>
+    <li>add-4 URL <a href="/#/">linked fourth topic tire here</a> Fourth titre</li>
+    <li>add-5 URL <a href="/#/">linked fifth topic titre here</a> Fifth titre</li>
+   <li>add-6 URL <a href="/#/">linked sixth topic tire here</a> Sixth titre</li>
  </p> 
 </ul>
 </div>
 
 ## Join our teams' conversation 
-Join to discover how to create feature inside GitHub website
+   Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
 - > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
 - > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
 - > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
 
-### How to make features requests?
-If there is None master plan for this project purposed or 
-None sure what it is the blob problems to solved in: this feature request
+## How to pull an open feature requests
 
-> - Description and clear concise of our feature requests.
+    echo  I'm Working in a large project.
+> add this to stage area is a feature request
+      
+If there is nan a master plan for this project featuring requests:
+add improvement to documentation structure examples in addiction an informational shortcut title for the sections of this repository pages.
+or nan sure what it is the blob problems to solved in:.
+
+>  Describe my goal, it's a clear and concise description of what we want to happen.
     
-Elif this requests feature doesn't exist in: this page main - [repository](https://github.com/dji-7/dji7.github.io/) or
-there's no one perfect - [Jekyll site CI] () features or pages strategy that fits this page project.
+If else this demand target does not exist in: thi project - [repository](https://github.com/dji-7/dji7.github.io/) or
+there's no one perfect effiliate Web-site features strategy that fits this project pages website,
+
     
- > - echo, learn more by your own previous examples of the creativity.
+ >  echo, learn more by your own previous examples of the creativity to reach the issues.
+ > check in to solve by identified important topic-**example**-fetch in from local (docs) to bring up each top title of the repository folder to be appear as list of topics on the wall sheet
 
-echo if there is None master plan for this this project requests, do not copy other styles,
-learn more forwards with cookie helps or without
+If else there is one master plan for this this project requests, do not copy other styles, learn more forwards with cookie helps or without
 
-> - learn more about these examples create your own model, style, in:
-> blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
+>  learn more about these creativity examples create your own model add in:
+**project** documentation structure examples to addiction an informational shortcut title for the sections of this repository pages
+and blueprint plan as interior && exterior solution and display plan like scripts or zip file and save it all as edit-sheet.txt
 
 
-   
-### Thank you for visiting us!
-       
-       Do not forget, if someone asks for your personal information
+### Git Tips 
+echo add quotes:
+
+   > - Do not forget, if someone asks for your personal information
        such as your account bank or your bank card, say no.
-       > - See you soon !
+       
+        Thank you for visiting us!
        
 
