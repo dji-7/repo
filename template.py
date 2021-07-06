@@ -29,6 +29,6 @@ def template(items):
     for items in my:
       print(items)
 
-templates = my_tamplate()
+print 'items'
 
 
