@@ -1,4 +1,3 @@
-# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
 <div class="content" aling="center">
  <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
  View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
