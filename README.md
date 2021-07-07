@@ -2,7 +2,7 @@
 <h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
 
-## README.mardown && Feature requests
+## Markdown in - Feature requests
 <p>echo, please active the missing functionalities,</p>
     
     sure there are absences on request of the functionalities
@@ -12,8 +12,6 @@
 
 <h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
 
-# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
-<div class="content" aling="center">
  <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
  View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
  is learning plenty of new things in GitHub Action.
