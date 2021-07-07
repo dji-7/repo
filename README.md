@@ -8,7 +8,7 @@ add-alternative-solution-in-the-repository
 
 <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
 
-## README.mardown && Feature request
+## Mardown && Feature request
 <p>echo, please active the missing functionalities,</p>
     
     sure there are absences on request of the functionalities
