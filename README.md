@@ -1,14 +1,30 @@
-add-alternative-solution-in-the-repository
-# README
-    View this page website in:
-<a href="https://pages.github.com">dji7.github.io</a>
 
-- <h3 align="center">dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from your <a href="https://pages.github.com">Github</a> repository</3h>
-<h2>Hello 🖐🏿 Welcome among!</h2>
+# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
+ <b>You are on the @dji-7 organisation page</b> 
+ 
+    this repository is my playground with a lot of features.
 
-<p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+<div class="content" aling="top-center">
+ <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a> and learning plenty of new things with <b>GitHub</b> features.
+</div>
+
+## Learn how to build beautiful website 
+> - build website that you can publish as your own InterSource landing page
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+
+    Methods and GitHub feature! How it works❔    
+   > Just write down 👇
+   >
+            > specified just by writing what you want it to do in your code, and see the changes. 
+
+
+<h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
+
 
 ## Mardown && Feature request
+## README.mardown && Feature requests
+
 <p>echo, please active the missing functionalities,</p>
     
     sure there are absences on request of the functionalities
@@ -17,47 +33,76 @@ add-alternative-solution-in-the-repository
     None sure what it is the blob problems to solved in: pull this feature request to improve. 
 
 <h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
+
+# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
+<div class="content" aling="center">
+ <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
+ is learning plenty of new things in GitHub Action.
+</div>
+
+Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
+
   
-    None ideas 🧐 but ...
+    Explore and learn GitHub feature! How it works❔
     
-<p> Let's try to build up this repository website to the next level
+Let's try to build up this repository website to the next level
 
-### Workflows & Branching Strategies
-> - There's no one perfect workflow or branching strategy that fits every project. However, when you're collaborating in a repository on GitHub, it's important to have a      clear workflow outlined and communicated. That way, contributors know what to expect and how to get things done. 
+      
+<div class="inner source">
+ <ul id="https://github.com/djibal/innersource">
+   <h2>Learn Resources </h2> 
+ Inner Source<a href="/https://github.com/djibal/innersource/"> Repository</a> for <b>learning resources</b>
   
-Here are a few of our favorite resources to help you make the right choice for your project: 
-- [The GitHub Flow](https://guides.github.com/introduction/flow/)
-- [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
-- A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to 
- > - communicate your chosen workflow
-  
-#### Discover Github pages feature 
-  
-      This repository will be a working website that you can publish as your own InnerSource landing page.
-- [Innersource local repository](https://github.com/djibal/innersource/)
-
- 
-  
-<div class="branch-list">
-   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <li><a href="templates/">Useful templates</a></li>
-    <li><a href="metrics/">Measuring success</a></li>
-    <li><a href="repo-ownership/">Repository ownership</a></li>
-   <li><a href="workflows/">Workflows</a></li>
+    Links to repository documents, click on link 👇
+ <p>
+   <li>add-1 URL <a href="/#/">linked first topic titre here</a> First titre</li>
+    <li>add-2 URL <a href="/#/">linked second topic titre here</a> Second titre</li>
+    <li>add-3 URL <a href="/#/">linked third topic titre here</a> Third titre</li>
+    <li>add-4 URL <a href="/#/">linked fourth topic tire here</a> Fourth titre</li>
+    <li>add-5 URL <a href="/#/">linked fifth topic titre here</a> Fifth titre</li>
+   <li>add-6 URL <a href="/#/">linked sixth topic tire here</a> Sixth titre</li>
+ </p> 
 </ul>
+</div>
 
+## Join our teams' conversation 
+   Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
+- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
+- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
 
-##### Discover Github pages feature 
-<p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+## How to pull an open feature requests
+
+    echo  I'm Working in a large project.
+> add this to stage area is a feature request
+      
+If there is nan a master plan for this project featuring requests:
+add improvement to documentation structure examples in addiction an informational shortcut title for the sections of this repository pages.
+or nan sure what it is the blob problems to solved in:.
+
+>  Describe my goal, it's a clear and concise description of what we want to happen.
+    
+If else this demand target does not exist in: thi project - [repository](https://github.com/dji-7/dji7.github.io/) or
+there's no one perfect effiliate Web-site features strategy that fits this project pages website,
 
     
-### Explanation of what we want to happen in this example
-<p>echo improving my request is to get the missing recommandation feature solutions in my project</p>.
-       
-       Other behaviours and information 
-       learn more in: !.
-       
+ >  echo, learn more by your own previous examples of the creativity to reach the issues.
+ > check in to solve by identified important topic-**example**-fetch in from local (docs) to bring up each top title of the repository folder to be appear as list of topics on the wall sheet
 
-dji7.github.io
-Let‘s get started with Github page to build up this repository website to the next level.
+If else there is one master plan for this this project requests, do not copy other styles, learn more forwards with cookie helps or without
+
+>  learn more about these creativity examples create your own model add in:
+**project** documentation structure examples to addiction an informational shortcut title for the sections of this repository pages
+and blueprint plan as interior && exterior solution and display plan like scripts or zip file and save it all as edit-sheet.txt
+
+
+### Git Tips 
+echo add quotes:
+
+   > - Do not forget, if someone asks for your personal information
+       such as your account bank or your bank card, say no.
+       
+        Thank you for visiting us!
+       
 
