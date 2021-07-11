@@ -22,7 +22,9 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
 <h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
 
+## Mardown && Feature request
 ## README.mardown && Feature requests
+
 <p>echo, please active the missing functionalities,</p>
     
     sure there are absences on request of the functionalities
