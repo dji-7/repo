@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8?">
-# README.html
-update content in the next following lines start here.
+<meta name='utf-8'>
+<meta name='viewport=width-device, initial-scal=1.0'>
 
-## Body
-Display my plan in: the interface 
-<body class="TEMPLATE">
- <form class="markdown" id="md">
+< - update content in the next following lines ->
 
-### add first titre for this blog
-  <div class="G1">
+ 
+< - Body display my plan in: the interface ->
+<body class="content">
+ <form class="repository" id="blob">
+
+### add titles to the following lines.
+  <div class="d7">
+ 
     <h1 align="center" width="50%" height="50%" style="color:blue"> ADD FIRST-FORM HEADER HERE </h1>
     <p align="center" width="50%" height="50%" style="color:green"> first paragraph indented here </p> 
   
