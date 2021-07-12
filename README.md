@@ -1,23 +1,8 @@
-
-add-alternative-solution-in-the-repository
 # README
 - > This repository will be a working website that you can publish as your own InnerSource landing page.
 <div class="content" aling="center">
- <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
-  
-  <p>A=======
-# dji-7uthor <a href="https://dji-7.github.io/dji7.github.io/">Djibal</a> Github profile</p>
-    
- <h3><img align="center" widght-"120" height="100" src="https://user-images.githubusercontent.com/81055330/123887240-0d112700-d949-11eb-8570-2c4477f490ed.jpeg">
- dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog </a></h3>
- This repository is for learning pleinty of new things in GitHub.
-</div>
+ 
 
-Profile Githab[Djibal](https://dji-7.github.io/dji7.github.io/")
-<h3><img align="center" widght-"120" height="100" src="https://user-images.githubusercontent.com/81055330/123887240-0d112700-d949-11eb-8570-2c4477f490ed.jpeg">
-dji-7 public <a href="https://dji-7.github.io/dji7.github.io/">Blog </a></h3>
-This repository is for learning pleinty of new things in GitHub.
-</div>
 
 ## How to build GitHub pages site website?
 echo if there is nan master plan to dress up this [repository pages](/https://dji-7.github.io/dji7.github.io/) site website content in: order,
@@ -39,7 +24,7 @@ echo update [main - template](dji-7/dji7.github.io/) to use this template direct
  <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
   
 
->>>>>>> fcdf78ecfeb60ad707de6fd6703a69092a7a4d6b
+
 
 ## Learning Inner Source 
 [Innersource local repository](https://github.com/djibal/innersource/)<br>
@@ -61,7 +46,7 @@ echo update [main - template](dji-7/dji7.github.io/) to use this template direct
 
 
 ## Join our teams conversation 
-=======
+
 ## Join our public teams 
 >>>>>>> fcdf78ecfeb60ad707de6fd6703a69092a7a4d6b
 Join us to explore && discover new things<br>
