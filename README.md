@@ -31,12 +31,18 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
 <h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
 
+## Markdown in - Feature requests
+## Mardown && Feature request
+## README.mardown && Feature requests
+
+
+<p>echo, please active the missing functionalities,</p>
 
 ## Mardown && Feature request
 ## README.mardown && Feature requests
 
 <p>echo, please active the missing functionalities in repo,</p>
-    
+
     sure there are absences on request of the functionalities
     at the level of the deployment of workflow in this project,
     if there is None master plan for this project purposed or 
@@ -47,6 +53,7 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
 # Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
 
 <div class="content" aling="center">
+
  <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
  View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
  is learning plenty of new things in GitHub Action.
@@ -60,12 +67,6 @@ Learn how to build <a href="https://pages.github.com">GitHub pages</a> site webs
 Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
 now we are going to build this repository website to the next level.
 
-
-
-# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
- <b>You are on the @dji-7 organisation page</b> 
- 
-    this repository is my playground with a lot of features.
 
 <div class="content" aling="top-center">
  <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
