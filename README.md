@@ -1,5 +1,4 @@
 
-# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
  <b>You are on the @dji-7 organisation page</b> 
  
     this repository is my playground with a lot of features.
@@ -17,6 +16,7 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
    > Just write down 👇
    >
             > specified just by writing what you want it to do in your code, and see the changes. 
+
 
 
 <h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
@@ -47,6 +47,26 @@ Learn how to build <a href="https://pages.github.com">GitHub pages</a> site webs
     Explore and learn GitHub feature! How it works❔
     
 Let's try to build up this repository website to the next level
+
+
+# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
+ <b>You are on the @dji-7 organisation page</b> 
+ 
+    this repository is my playground with a lot of features.
+
+<div class="content" aling="top-center">
+ <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a> and learning plenty of new things with <b>GitHub</b> features.
+</div>
+
+## Learn how to build beautiful website 
+> - build website that you can publish as your own InterSource landing page
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+
+    Methods and GitHub feature! How it works❔    
+   > Just write down 👇
+   >
+            > specified just by writing what you want it to do in your code, and see the changes. 
 
       
 <div class="inner source">
