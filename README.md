@@ -1,8 +1,72 @@
+Hi 🖐🏿 **I am** [Djibal]("https://github.com/djiba/) How to reach ...
+<body class="content">
 
-# Hi 🖐🏿 **I am** [Djibal](/"https://github.com/djiba/) How to reach ...
+
  <b>You are on the @dji-7 organisation page</b> 
+
  
-    this repository is my playground with a lot of features.
+ <form class="dji-7-repo-list" "id="repo">
+                                         
+  <div class="content" aling="top-center">
+                                         
+   <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'>                                      
+   <li> local <a href="/https://github.com/dji-7/"> repo pages </a> website </li>
+   View this page in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for and learning plenty of new things with <b>GitHub</b> features.
+   <p> this repository is my playground with a lot of story and features.</p>                                                                             
+                                                                                                                               
+
+## Learn how to build beautiful website 
+> - build website that you can publish as your own InterSource landing page
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+
+    Methods and GitHub feature! How it works❔    
+   > Just write down 👇
+   >
+            > specified by writting down your purpose, example what you want it to do in your code? to see the changes.
+            > - everything it's explained on this repository, read and practice from this repository it's an open source create with Gitlab help.                                                              
+
+
+
+
+<h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
+
+
+## Markdown in - Feature requests
+## Mardown && Feature request
+## README.mardown && Feature requests
+
+
+<p>echo, please active the missing functionalities,</p>
+
+## Mardown && Feature request
+## README.mardown && Feature requests
+
+<p>echo, please active the missing functionalities in repo,</p>
+
+    sure there are absences on request of the functionalities
+    at the level of the deployment of workflow in this project,
+    if there is None master plan for this project purposed or 
+    None sure what it is the blob problems to solved in: pull this feature request to improve. 
+
+<h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
+
+# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
+
+<div class="content" aling="center">
+
+ <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
+ View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
+ is learning plenty of new things in GitHub Action.
+</div>
+
+Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
+
+  
+    Explore and learn some of GitHub feature! How it works❔
+    
+Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
+now we are going to build this repository website to the next level.
+
 
 <div class="content" aling="top-center">
  <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
@@ -17,37 +81,6 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
    > Just write down 👇
    >
             > specified just by writing what you want it to do in your code, and see the changes. 
-
-
-<h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
-
-
-
-## Markdown in - Feature requests
-## Mardown && Feature request
-## README.mardown && Feature requests
-
-
-<p>echo, please active the missing functionalities,</p>
-    
-    sure there are absences on request of the functionalities
-    at the level of the deployment of workflow in this project,
-    if there is None master plan for this project purposed or 
-    None sure what it is the blob problems to solved in: pull this feature request to improve. 
-
-<h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
-
- <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
- View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
- is learning plenty of new things in GitHub Action.
-</div>
-
-Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
-
-  
-    Explore and learn GitHub feature! How it works❔
-    
-Let's try to build up this repository website to the next level
 
       
 <div class="inner source">
