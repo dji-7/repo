@@ -1,3 +1,9 @@
+# README
+- > This repository will be a working website that you can publish as your own InnerSource landing page.
+<div class="content" aling="center">
+ 
+</div>
+
 # Open source learning for absolutely beginner 
 **We believe that the open source is in the future**.
 <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
@@ -24,6 +30,7 @@ learn the resource from this repository for free.
     <li><a href="metrics/">Measuring success</a></li>
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
+</div>  
  </ul>
  
  
@@ -49,6 +56,7 @@ learn more forwards with cookie helps or without
    
  
 
+
 ### How to build GitHub pages site website?
 echo if there is nan master plan to dress up this [repository pages](/https://dji-7.github.io/dji7.github.io/) site website content in: order,
 read me again from dashboard in: (About) this [local repository](/https://dji-7.github.io/dji7.github.io/) is feature requests.
@@ -59,9 +67,41 @@ echo elif there is nan master functionality to transform this repo pages site wi
 or there's no one perfect feature or strategy that fits this repository project purposes.
 
 ### Update on the way 
+
+echo update [main - template](dji-7/dji7.github.io/) to use this template directory in:
+
+<ul class="man-list" id="https://github.com/djibal/innersource">
+ <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+
+- This repository will be a working website that you can publish as your own InnerSource landing page.
+<div class="content" aling="center">
+ <p align="right"> Create-date in: 'Sunday, June 2## Learning Inner Source 
+[Innersource local repository](https://github.com/djibal/innersource/)<br>
+ Inner resource, learn the resource from this repository in github
+ 
+  > - innersouce local repository branches
+  
+<div class="branch-list"> 
+   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+
+
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+</ul>
+
+
+
+
+## Join our teams conversation 
+
+## Join our public teams 
+
 echo update [main - template](dji-7/dji7.github.io/) to use this template directory in.
 
 ## Join our teams conversation 
+
 
 Join us to explore && discover new things<br>
 and learn how to create dashboard feature inside Github website
