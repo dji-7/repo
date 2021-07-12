@@ -1,8 +1,6 @@
-Hi 🖐🏿 **I am** [Djibal]("https://github.com/djiba/) How to reach ...
-<body class="content">
 
+<h align="center">public <a href="https://dji-7.github.io/repo.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
- <b>You are on the @dji-7 organisation page</b> 
 
  
  <form class="dji-7-repo-list" "id="repo">
@@ -12,8 +10,10 @@ Hi 🖐🏿 **I am** [Djibal]("https://github.com/djiba/) How to reach ...
    <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'>                                      
    <li> local <a href="/https://github.com/dji-7/"> repo pages </a> website </li>
    View this page in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for and learning plenty of new things with <b>GitHub</b> features.
-   <p> this repository is my playground with a lot of story and features.</p>                                                                             
-                                                                                                                               
+   <p> this repository is my playground with a lot of story and features.</p>
+  
+ <div/> 
+</form>                                                                                                                               
 
 ## Learn how to build beautiful website 
 > - build website that you can publish as your own InterSource landing page
@@ -25,10 +25,6 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
             > specified by writting down your purpose, example what you want it to do in your code? to see the changes.
             > - everything it's explained on this repository, read and practice from this repository it's an open source create with Gitlab help.                                                              
 
-
-
-
-<h align="center">public <a href="https://dji-7.github.io/dji7.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
 
 
 ## Markdown in - Feature requests
@@ -49,28 +45,12 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
     None sure what it is the blob problems to solved in: pull this feature request to improve. 
 
 <h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
-
-# Profile <a href="https://github.com/djibal">Djibal</a> Github website</p>
-
-<div class="content" aling="center">
-
- <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
- View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a></h3>
- is learning plenty of new things in GitHub Action.
-</div>
-
-Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website
-
   
     Explore and learn some of GitHub feature! How it works❔
     
 Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
 now we are going to build this repository website to the next level.
 
-
-<div class="content" aling="top-center">
- <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
- View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a> and learning plenty of new things with <b>GitHub</b> features.
 </div>
 
 ## Learn how to build beautiful website 
@@ -80,10 +60,10 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
     Methods and GitHub feature! How it works❔    
    > Just write down 👇
    >
-            > specified just by writing what you want it to do in your code, and see the changes. 
+            > specified just by writing what you want it to do in your code, impliment in and commit to this and see your the changes. 
 
       
-<div class="inner source">
+<div class="innersource">
  <ul id="https://github.com/djibal/innersource">
    <h2>Learn Resources </h2> 
  Inner Source<a href="/https://github.com/djibal/innersource/"> Repository</a> for <b>learning resources</b>
