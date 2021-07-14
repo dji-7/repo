@@ -1,41 +1,50 @@
 
-<h align="center">public <a href="https://dji-7.github.io/repo.github.io/">Blog</a> Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</p>
-
-
- 
- <form class="dji-7-repo-list" "id="repo">
+<h align="center">This <a href="https://dji-7.github.io/repo.github.io/">repo</a><b> pages</b> - Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</h1>
+<p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'>   
                                          
   <div class="content" aling="top-center">
-                                         
-   <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'>                                      
-   <li> local <a href="/https://github.com/dji-7/"> repo pages </a> website </li>
-   View this page in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for and learning plenty of new things with <b>GitHub</b> features.
-   <p> this repository is my playground with a lot of story and features.</p>
-  
- <div/> 
-</form>                                                                                                                               
+                                      
+  **Learn from this example in**
+   - > " I am a example in current page! "
+   
+   View this local repository pages in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for teach and learning plenty of new things in
+   <p> this repository is a playground with a lot of features to understanding how to create with your own imaginations and understanding.</p>
+                                                                       
+ <br>
+   
+ ## Join our teams' conversation 
+   Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
+- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
+- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
+</div>                                                                      
 
 ## Learn how to build beautiful website 
 > - build website that you can publish as your own InterSource landing page
-and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code, depending on your project.
 
     Methods and GitHub feature! How it works❔    
-   > Just write down 👇
+   > Just write down👇specify by write it down👇🏿what do you want want to get? just imagine-exp:
    >
-            > specified by writting down your purpose, example what you want it to do in your code? to see the changes.
-            > - everything it's explained on this repository, read and practice from this repository it's an open source create with Gitlab help.                                                              
-
-
-
-## Markdown in - Feature requests
-## Mardown && Feature request
-## README.mardown && Feature requests
+   specified by writting it down your purpose, example what you want it to do in your code? to see the changes: In "all we need in - it's method's "
+   - everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help. 
+ 
+###  Learn resource for free
+ **Innersource learning repository**🔮
+ 
+ We-believe that the open-source is-in the future 👉🏿
+Is a discovering repository with a lot of feature and guild methods, for you to understand how is works everything is explained in - innersource repository - [website](https://djibal.github.io/innersource/) it reads you, no need to understood everything and do not hesitate to create a pull request from it.
+ 
+ 
+## Markdown & Readme in - feature request
+- Mardown && Readme - features
+- > README.mardown && Feature requests
 
 
 <p>echo, please active the missing functionalities,</p>
 
-## Mardown && Feature request
-## README.mardown && Feature requests
+- Mardown && Markdown - Feature request
+- README.mardown in features
 
 <p>echo, please active the missing functionalities in repo,</p>
 
@@ -60,15 +69,15 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
     Methods and GitHub feature! How it works❔    
    > Just write down 👇
    >
-            > specified just by writing what you want it to do in your code, impliment in and commit to this and see your the changes. 
+   - specified just by writing what you want it to do in your code, impliment in and commit to this and see your the changes. 
 
       
 <div class="innersource">
  <ul id="https://github.com/djibal/innersource">
-   <h2>Learn Resources </h2> 
- Inner Source<a href="/https://github.com/djibal/innersource/"> Repository</a> for <b>learning resources</b>
+   <h2>Topics list </h2> 
+ Add this <a href="/https://github.com/djibal/innersource/"> Repository</a><>topics list</b>
   
-    Links to repository documents, click on link 👇
+    Link repository topics list, here 👇
  <p>
    <li>add-1 URL <a href="/#/">linked first topic titre here</a> First titre</li>
     <li>add-2 URL <a href="/#/">linked second topic titre here</a> Second titre</li>
@@ -80,11 +89,7 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
 </ul>
 </div>
 
-## Join our teams' conversation 
-   Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
-- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
-- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
-- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
+
 
 ## How to pull an open feature requests
 
@@ -113,7 +118,7 @@ and blueprint plan as interior && exterior solution and display plan like script
 
 ### Git Tips 
 echo add quotes:
-
+- for this example
    > - Do not forget, if someone asks for your personal information
        such as your account bank or your bank card, say no.
        
