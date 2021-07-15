@@ -1,4 +1,18 @@
 
+# repo
+Featuring Request
+
+echo, please active the missing functionalities,</p>
+    
+    sure there are absences on request of the functionalities
+    at the level of the deployment of workflow in this project,
+    if there is None master plan for this project purposed or 
+    None sure what it is the blob problems to solved in: pull this feature request to improve in: including - @User. 
+
+  
+@User - [Innersource local repository](https://github.com/djibal/innersource/)
+
+
 <h align="center">This <a href="https://dji-7.github.io/repo.github.io/">repo</a><b> pages</b> - Is hosted directly from <a href="https://pages.github.com">Github pages</a> repository</h1>
 <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'>   
                                          
@@ -62,6 +76,7 @@ now we are going to build this repository website to the next level.
 
 </div>
 
+
 ## Learn how to build beautiful website 
 > - build website that you can publish as your own InterSource landing page
 and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
@@ -77,6 +92,14 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
    <h2>Topics list </h2> 
  Add this <a href="/https://github.com/djibal/innersource/"> Repository</a><>topics list</b>
   
+
+<div class="local-repo">
+   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+
     Link repository topics list, here 👇
  <p>
    <li>add-1 URL <a href="/#/">linked first topic titre here</a> First titre</li>
@@ -86,12 +109,17 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
     <li>add-5 URL <a href="/#/">linked fifth topic titre here</a> Fifth titre</li>
    <li>add-6 URL <a href="/#/">linked sixth topic tire here</a> Sixth titre</li>
  </p> 
+
 </ul>
 </div>
 
 
 
 ## How to pull an open feature requests
+
+
+       Other behaviours and information 
+       learn more in: learn more
 
     echo  I'm Working in a large project.
 > add this to stage area is a feature request
@@ -124,4 +152,5 @@ echo add quotes:
        
         Thank you for visiting us!
        
+
 
