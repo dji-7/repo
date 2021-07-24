@@ -1,48 +1,131 @@
-  
-    Explore and learn GitHub feature! How it works❔
+
+# repo
+Featuring Request and submitting requests
+
+echo, please active the missing functionalities
     
+    sure there are absences on request of the functionalities
+    at the level of the deployment of workflow in this project,
+    if there is None master plan for this project purposed or 
+    None sure what it is the blob problems to solved in: pull this feature request to improve in: including - @User. 
+    
+<div class="repo-innersource" id="user-id">
+  <h2>InnerSource repository learning </h2>
+  <p>Learn resources for free, discover it now</p>
+ 
+@User - [Innersource local repository](https://github.com/djibal/innersource/)
+  <ul class="innersource branch-folder">
+    <br>
+   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <br>
+    <li><a href="templates/">Useful templates</a></li>
+    <br>
+    <li><a href="metrics/">Measuring success</a></li>
+    <br>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+    <br>
+   <li><a href="workflows/">Workflows</a></li>
+  </ul>  
+</div>                                                              
+ 
+ ## Join our teams' conversation 
+<div class="local-repo">
+ - View this local repository pages in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for teach and learning plenty of new things in
+ <b> this repository is a playground with a lot of features to understanding how to create with your own imaginations and understanding.</b>
+     
+-- Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
+- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
+- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
+</div>                                                                      
+  
+
+                                         
+## Learn how to build beautiful website 
+> - build website that you can publish as your own InterSource landing page
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code, depending on your project.
+
+    Methods and GitHub feature! How it works❔    
+   > Just write down👇specify by write it down👇🏿what do you want want to get? just imagine-exp:
+   >
+   specified by writting it down your purpose, example what you want it to do in your code? to see the changes: In "all we need in - it's method's "
+   - everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help. 
+ 
+###  Learn resource for free
+ **Innersource learning repository**🔮
+ 
+ We-believe that the open-source is-in the future 👉🏿
+Is a discovering repository with a lot of feature and guild methods, for you to understand how is works everything is explained in - innersource repository - [website](https://djibal.github.io/innersource/) it reads you, no need to understood everything and do not hesitate to create a pull request from it.
+ 
+ 
+## Markdown & Readme in - feature request
+- Mardown && Readme - features
+- > README.mardown && Feature requests
+
+
+<p>echo, please active the missing functionalities,</p>
+
+- Mardown && Markdown - Feature request
+- README.mardown in features
+
+<p>echo, please active the missing functionalities in repo,</p>
+
+    sure there are absences on request of the functionalities
+    at the level of the deployment of workflow in this project,
+    if there is None master plan for this project purposed or 
+    None sure what it is the blob problems to solved in: pull this feature request to improve. 
+
+<h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
+
+    Explore and learn some of GitHub feature! How it works❔
+    
+
 Let's try to build up this repository website to the next level
 
     this repository is my playground with a lot of features.
 
-<div class="content" aling="top-center">
- <p align="right"><b>Create-date</b> in: 'Sunday, June 27, 2021'</p>
- View this page in <a href="https://dji-7.github.io/dji7.github.io/">Website</a> and learning plenty of new things with <b>GitHub</b> features.
+Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
+now we are going to build this repository website to the next level.
+
+
 </div>
+
 
 ## Learn how to build beautiful website 
 > - build website that you can publish as your own InterSource landing page
-and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code.
+and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code, just scripts and tags. 
 
     Methods and GitHub feature! How it works❔    
    > Just write down 👇
    >
-            > specified just by writing what you want it to do in your code, and see the changes. 
+   - specified just by writing what you want it to do in your code, impliment in and commit to this and see your the changes. 
+
       
-<div class="inner source">
+<div class="innersource">
  <ul id="https://github.com/djibal/innersource">
-   <h2>Learn Resources </h2> 
- Inner Source<a href="/https://github.com/djibal/innersource/"> Repository</a> for <b>learning resources</b>
-  
-    Links to repository documents, click on link 👇
+   <h2>Topics list </h2> 
+ Add this <a href="/https://github.com/djibal/innersource/"> Repository</a><>topics list</b>
+
+    Link repository topics list, here 👇
  <p>
-   <li>add-1 URL <a href="/#/">linked first topic titre here</a> First titre</li>
-    <li>add-2 URL <a href="/#/">linked second topic titre here</a> Second titre</li>
-    <li>add-3 URL <a href="/#/">linked third topic titre here</a> Third titre</li>
-    <li>add-4 URL <a href="/#/">linked fourth topic tire here</a> Fourth titre</li>
-    <li>add-5 URL <a href="/#/">linked fifth topic titre here</a> Fifth titre</li>
-   <li>add-6 URL <a href="/#/">linked sixth topic tire here</a> Sixth titre</li>
+   <li>add-topic-1 URL <a href="/#/">linked first topic titre here</a> Add first URL titre</li>
+    <li>add-topic-2 URL <a href="/#/">linked second topic titre here</a> Add second URL titre</li>
+    <li>add-topic-3 URL <a href="/#/">linked third topic titre here</a> Add third URL titre</li>
+    <li>add-topic-4 URL <a href="/#/">linked fourth topic tire here</a> Add fourth URL titre</li>
+    <li>add-topic-5 URL <a href="/#/">linked fifth topic titre here</a> Add fifth URL titre</li>
+   <li>add-topic-6 URL <a href="/#/">linked sixth topic tire here</a> Add sixth URL titre</li>
  </p> 
+
 </ul>
 </div>
 
-## Join our teams' conversation 
-   Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
-- > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
-- > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
-- > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
+
 
 ## How to pull an open feature requests
+
+
+       Other behaviours and information 
+       learn more in: learn more
 
     echo  I'm Working in a large project.
 > add this to stage area is a feature request
@@ -69,10 +152,11 @@ and blueprint plan as interior && exterior solution and display plan like script
 
 ### Git Tips 
 echo add quotes:
-
+- for this example
    > - Do not forget, if someone asks for your personal information
        such as your account bank or your bank card, say no.
        
         Thank you for visiting us!
        
+
 
