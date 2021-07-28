@@ -1,3 +1,4 @@
+
 # repo
 Featuring Request and submitting requests
 
@@ -75,11 +76,17 @@ Is a discovering repository with a lot of feature and guild methods, for you to 
     None sure what it is the blob problems to solved in: pull this feature request to improve. 
 
 <h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
-  
+
     Explore and learn some of GitHub feature! How it works❔
     
+
+Let's try to build up this repository website to the next level
+
+    this repository is my playground with a lot of features.
+
 Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
 now we are going to build this repository website to the next level.
+
 
 </div>
 
