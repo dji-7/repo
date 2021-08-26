@@ -6,4 +6,4 @@ url: "https://octoca.github.io"
 markdown: kramdown
 highlighter: rouge
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
