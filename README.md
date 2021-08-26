@@ -8,13 +8,6 @@
 **We believe that the open source is in the future**.
 <p align="right"> Create-date in: 'Sunday, June 27, 2021'</p>
 
-## This link is for:
-- Reporting of issues found within and when using Windows Subsystem for Linux.
-  Please read about [CONTRIBUTING.md](https://github.com/Microsoft/WSL/blob/master/CONTRIBUTING.md) **before making an issue submission**
--
-  > Do not open Github issues for Windows crashes (BSODs) or security issues. Please direct all Windows crashes and security issues to secure@microsoft.com. Issues with security vulnerabilities may be edited to hide the vulnerability details.
-
-
 ## Free learning resource
 Learn **sources** from this local **repository** is a **open source software development**.
 in everything is **documented** and explanned in the **docs** to guild you improve your skills and how to use **GitHub**.
