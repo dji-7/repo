@@ -1,19 +1,39 @@
 
-# repo
-Featuring Request and submitting requests
+# local-repo
+ We-believe that the open-source is-in the future.
 
-echo, please active the missing functionalities
+
+## How to create and provided features in a spcific repository?
+**Featuring Request and submitting requests**
+
+    echo, Please active the missing functionalities in current repo!
     
-    sure there are absences on request of the functionalities
-    at the level of the deployment of workflow in this project,
-    if there is None master plan for this project purposed or 
-    None sure what it is the blob problems to solved in: pull this feature request to improve in: including - @User. 
+1 - Sure there are few absence on request of the functionalities<br>
+2 - at the level of the deployment of the (project) in this local (repo)<br>
+3 - if there is None master plan for this project purposed or None sure what it is the blob problems to solved in:<br>
+4 - pull this feature request to improve in: including Git Tips !!  
     
-<div class="repo-innersource" id="user-id">
-  <h2>InnerSource repository learning </h2>
-  <p>Learn resources for free, discover it now</p>
+### Our guide line to learn resources
+InnerSource its a rich repository with a lot of feature 
+**How to get fammilial with the resources learning?**
+**Followed this repository step by step in: InnerSource its a rich repository with a lot of feature** 
+**How to get fammilial with the resources learning?**
+**Followed this repository step by step in: Each of these branches has its own comprehensive readme**
+**and guideline that you can easily familiarize yourself with sabs you scratch your hair 💇**
+
+
+Our Inner-Source local [👉🏿repository](https://github.com/djibal/innersource/) 
+**Innersource learning repository**🔮
+
+    Methods and GitHub feature! How it works❔
  
-@User - [Innersource local repository](https://github.com/djibal/innersource/)
+ Put your creativity by writwriting your own imagination - what you want it to do in your code? to see the changes in:
+ all you need in - it's the method's and everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help. 
+ 
+ Our InnerSource - Branches 👇 
+ in: Each of these branches has its own comprehensive readme's
+ 
+ <div class="repo-innersource" id="user-id">
   <ul class="innersource branch-folder">
     <br>
    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
@@ -28,86 +48,20 @@ echo, please active the missing functionalities
   </ul>  
 </div>                                                              
  
- ## Join our teams' conversation 
 <div class="local-repo">
- - View this local repository pages in <a href="https://dji-7.github.io/repo.github.io/">Website</a> is for teach and learning plenty of new things in
- <b> this repository is a playground with a lot of features to understanding how to create with your own imaginations and understanding.</b>
-     
--- Links to repository discussions, click on link 👇 Join us to discover how to create feature and build files inside GitHub website.
+    
+ ## Join our teams' conversation 
+-- Join us to discover how to create feature and build files inside GitHub website.
 - > [Join our team chat box](https://github.com/orgs/dji-7/teams/team-chat-box/)
 - > [Join team's discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
 - > [join our team conversation for new ideas](https://github.com/orgs/dji-7/teams/team-conversations/)
-</div>                                                                      
-  
-
-                                         
-## Learn how to build beautiful website 
-> - build website that you can publish as your own InterSource landing page
-and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code, depending on your project.
-
-    Methods and GitHub feature! How it works❔    
-   > Just write down👇specify by write it down👇🏿what do you want want to get? just imagine-exp:
-   >
-   specified by writting it down your purpose, example what you want it to do in your code? to see the changes: In "all we need in - it's method's "
-   - everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help. 
+                                                                    
+<br>  
+  #### Link This Example
+  add this topics list example in ?                                      
  
-###  Learn resource for free
- **Innersource learning repository**🔮
- 
- We-believe that the open-source is-in the future 👉🏿
-Is a discovering repository with a lot of feature and guild methods, for you to understand how is works everything is explained in - innersource repository - [website](https://djibal.github.io/innersource/) it reads you, no need to understood everything and do not hesitate to create a pull request from it.
- 
- 
-## Markdown & Readme in - feature request
-- Mardown && Readme - features
-- > README.mardown && Feature requests
-
-
-<p>echo, please active the missing functionalities,</p>
-
-- Mardown && Markdown - Feature request
-- README.mardown in features
-
-<p>echo, please active the missing functionalities in repo,</p>
-
-    sure there are absences on request of the functionalities
-    at the level of the deployment of workflow in this project,
-    if there is None master plan for this project purposed or 
-    None sure what it is the blob problems to solved in: pull this feature request to improve. 
-
-<h3> How it work? <a href="https://pages.github.com">GitHub pages</a></h3>
-
-    Explore and learn some of GitHub feature! How it works❔
-    
-
-Let's try to build up this repository website to the next level
-
-    this repository is my playground with a lot of features.
-
-Let's just start, this is the hardest part, of course believe in one way to start, you will find it is not that hard,
-now we are going to build this repository website to the next level.
-
-
-</div>
-
-
-## Learn how to build beautiful website 
-> - build website that you can publish as your own InterSource landing page
-and create your first <b>website</b> with <a href="https://pages.github.com">GitHub pages</a> without write ✍ programming languages code, just scripts and tags. 
-
-    Methods and GitHub feature! How it works❔    
-   > Just write down 👇
-   >
-   - specified just by writing what you want it to do in your code, impliment in and commit to this and see your the changes. 
-
-      
-<div class="innersource">
- <ul id="https://github.com/djibal/innersource">
-   <h2>Topics list </h2> 
- Add this <a href="/https://github.com/djibal/innersource/"> Repository</a><>topics list</b>
-
-    Link repository topics list, here 👇
- <p>
+    <ul>
+  <p>      
    <li>add-topic-1 URL <a href="/#/">linked first topic titre here</a> Add first URL titre</li>
     <li>add-topic-2 URL <a href="/#/">linked second topic titre here</a> Add second URL titre</li>
     <li>add-topic-3 URL <a href="/#/">linked third topic titre here</a> Add third URL titre</li>
@@ -119,35 +73,6 @@ and create your first <b>website</b> with <a href="https://pages.github.com">Git
 </ul>
 </div>
 
-
-
-## How to pull an open feature requests
-
-
-       Other behaviours and information 
-       learn more in: learn more
-
-    echo  I'm Working in a large project.
-> add this to stage area is a feature request
-      
-If there is nan a master plan for this project featuring requests:
-add improvement to documentation structure examples in addiction an informational shortcut title for the sections of this repository pages.
-or nan sure what it is the blob problems to solved in:.
-
->  Describe my goal, it's a clear and concise description of what we want to happen.
-    
-If else this demand target does not exist in: thi project - [repository](https://github.com/dji-7/dji7.github.io/) or
-there's no one perfect effiliate Web-site features strategy that fits this project pages website,
-
-    
- >  echo, learn more by your own previous examples of the creativity to reach the issues.
- > check in to solve by identified important topic-**example**-fetch in from local (docs) to bring up each top title of the repository folder to be appear as list of topics on the wall sheet
-
-If else there is one master plan for this this project requests, do not copy other styles, learn more forwards with cookie helps or without
-
->  learn more about these creativity examples create your own model add in:
-**project** documentation structure examples to addiction an informational shortcut title for the sections of this repository pages
-and blueprint plan as interior && exterior solution and display plan like scripts or zip file and save it all as edit-sheet.txt
 
 
 ### Git Tips 
