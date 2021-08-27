@@ -1,9 +1,9 @@
 
 # local-repo
- We-believe that the open-source is-in the future.
+We-believe that the open-source is-in the future🔮
 
 
-## How to create and provided features in a spcific repository?
+## How to create and provided a features request?
 **Featuring Request and submitting requests**
 
     echo, Please active the missing functionalities in current repo!
@@ -13,39 +13,28 @@
 3 - if there is None master plan for this project purposed or None sure what it is the blob problems to solved in:<br>
 4 - pull this feature request to improve in: including Git Tips !!  
     
-### Our guide line to learn resources
-InnerSource its a rich repository with a lot of feature 
-**How to get fammilial with the resources learning?**
-**Followed this repository step by step in: InnerSource its a rich repository with a lot of feature** 
-**How to get fammilial with the resources learning?**
-**Followed this repository step by step in: Each of these branches has its own comprehensive readme**
-**and guideline that you can easily familiarize yourself with sabs you scratch your hair 💇**
+
+### Inner Source | learning repository 
+<p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+
+    InnerSource it`s rich repository with a lot of feature
+How to get confortable and familial you with the resources learning? 
+- How to get fammilial with the resources learning?
+- Followed this repository step by step in: InnerSource its a rich repository with a lot of feature
+- Followed this repository step by step in: 
+- Each of these branches has its own comprehensive readme
+- and guideline that you can easily familiarize yourself with sabs you scratch your hair 💇
+
+**Our Inner-Source local [👉🏿repository](https://github.com/djibal/innersource/) Branches each of these branches has its own comprehensive readme's.
 
 
-Our Inner-Source local [👉🏿repository](https://github.com/djibal/innersource/) 
-**Innersource learning repository**🔮
+<p align="horizontal">Click to be rediriged in repository pages <a href="https://djibal.github.io/innersource">Website </a>and read repository content in Each of these branches has its own comprehensive readme</p>
 
-    Methods and GitHub feature! How it works❔
+
+ 
  
  Put your creativity by writwriting your own imagination - what you want it to do in your code? to see the changes in:
- all you need in - it's the method's and everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help. 
- 
- Our InnerSource - Branches 👇 
- in: Each of these branches has its own comprehensive readme's
- 
- <div class="repo-innersource" id="user-id">
-  <ul class="innersource branch-folder">
-    <br>
-    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <li><a href="templates/">Useful templates</a></li>
-    <li><a href="metrics/">Measuring success</a></li>
-    <li><a href="repo-ownership/">Repository ownership</a></li>
-   <li><a href="workflows/">Workflows</a></li>
-</ul>
-     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-  <p align="horizontal">Click here to <a href="https://djibal.github.io/innersource">get in page</a></p>
-  
-                                                      
+ all you need in - it's the method's and everything it's explained on this repository, read and practice from [repository](djibal/innersource/) it's an open source create with Gitlab help.                                                      
  
 <div class="local-repo">
     
