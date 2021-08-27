@@ -36,17 +36,16 @@ Our Inner-Source local [👉🏿repository](https://github.com/djibal/innersourc
  <div class="repo-innersource" id="user-id">
   <ul class="innersource branch-folder">
     <br>
-   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <br>
+    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
     <li><a href="templates/">Useful templates</a></li>
-    <br>
     <li><a href="metrics/">Measuring success</a></li>
-    <br>
     <li><a href="repo-ownership/">Repository ownership</a></li>
-    <br>
    <li><a href="workflows/">Workflows</a></li>
-  </ul>  
-</div>                                                              
+</ul>
+     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+  <p align="horizontal">Click here to <a href="https://djibal.github.io/innersource">get in page</a></p>
+  
+                                                      
  
 <div class="local-repo">
     
